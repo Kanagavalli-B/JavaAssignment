@@ -1,0 +1,3 @@
+Public variables can be accessed within class and can also be accessed anywhere when we create object for that particular class.
+Protected variables can be accessed within the same package and also can be accessed inside different package if it is subclassed.
+Private variables can be accessed within same class only.To use private variables of one class into another class we can access through getter and setter methods.
